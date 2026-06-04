@@ -82,11 +82,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3pr&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3pr&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://img.shields.io/github/followers/th3pr?style=for-the-badge&logo=github&color=1F4E79&labelColor=0D1117&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/th3pr?style=for-the-badge&logo=github&color=1F4E79&labelColor=0D1117&label=Total%20Stars" alt="Total Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=th3pr&style=for-the-badge&color=1F4E79&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-peach-nu-71.vercel.app/api?username=th3pr&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-peach-nu-71.vercel.app/api/top-langs/?username=th3pr&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
