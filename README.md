@@ -78,7 +78,8 @@
 | **[EZpin WooCommerce Plugin](https://github.com/th3pr/ezpin-wordpress-api-integeration)** | Open-source plugin integrating EZpin's gift cards API with WooCommerce — OAuth, auto product sync, order management | PHP · WordPress |
 | **[Kafiil](https://kafiil.com)** | Multi-sided freelance marketplace (services, projects, contests, auctions) with multi-currency escrow | Laravel · MySQL |
 | **[Mowaamah](https://www.mowaamah.sa)** | Saudi Government HRSD platform — ZATCA, HyperPay & SADAD integrations | PHP · Symfony |
-| **[ENTEK.AI Supplier Portal](https://supplier.entek.ai)** | End-to-end supplier portal for an energy marketplace serving 1.5M+ homes | Laravel · Supabase |
+| **[ENTEK.AI Supplier Portal](https://supplier.entek.ai)** | End-to-end supplier portal for an energy marketplace serving 1.5M+ homes | NodeJs · Supabase |
+| **[Gasable Careers Portal](https://careers.entek.ai)** | AI-powered hiring portal with automated CV analysis & shortlisting — reduced hiring time by ~40% | NodeJs · Supabase |
 
 ---
 
